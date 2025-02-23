@@ -1,65 +1,116 @@
+<h1 align="center">Hello there! 👋 I'm Abdullah Farooq</h1>
 
-
-<h1 align="center">Hello there!, I'm Abdullah Farooq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-        width="35"></h1>
-<br>
-<p>
+<p align="center">
   <a href="https://github.com/offx-farooq/offx-farooq">
-    
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=DevOps+Engineer+%7C+Cloud+Enthusiast;Linux+%7C+Automation+%7C+CI%2FCD+%7C+Kubernetes;Passionate+about+Scalability+and+Reliability">
   </a>
- </p>
-</p>      
+</p>
 
-## Connect With Me
-        
+---
+
+## 🌐 Connect With Me
+
 <p>
     <a href="https://www.linkedin.com/in/abdullah-farooq-27063a2a3/" target="_blank">
-        <img alt="JavaScript"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=#ffffff">
+        <img alt="LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=farooq.abdullah1719@gmail.com" target="_blank">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=#ffffff">
+    <a href="mailto:farooq.abdullah1719@gmail.com" target="_blank">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </p>
-</p>
-<br>
 
-## About me
+---
 
-Hi My name is Abdullah Farooq, and I am a computer science student at Air University, Islamabad.
+## 🛠️ About Me
 
-As a Front End Developer, I design, develop, and deploy custom websites who have a unique idea for their web pages. I use HTML, CSS, JavaScript for Front-End development.
-I enjoy bringing creativity to every project I work on and using futuristic software development techniques that benefit users as well as engineers.
+👨‍💻 **I am Abdullah Farooq, a passionate DevOps Engineer and Cloud Enthusiast.**  
+🎓 **BS IT Student at Air University, Islamabad.**  
+🚀 **Bridging the gap between development and operations with automation, CI/CD, and scalable cloud solutions.**  
+🔧 **Strong focus on Infrastructure as Code (IaC), containerization, and cloud deployments.**  
 
-I enjoy using upcoming technologies and pick things up quickly. I keep up with the most recent advancements and trends in computer science.
+I am constantly improving my **automation, monitoring, and deployment strategies** to deliver **highly available, scalable, and efficient** applications.
 
-I enjoy making software tweaks.
+---
 
-## 🛠️ My Skills
+## 🚀 My DevOps Skill Set
 
+### 🏗️ DevOps & Cloud Technologies
 <p>
-    <summary><b>Progammming Languages</b></summary>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img alt="JavaScript"
-            src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    </a>
-    <br />
-    <br />
-        <h4>Web Development</h4>
-    <summary><b>Frontend Developement</b></summary>
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img alt="HTML"
-            src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img alt="CSS"
-            src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank">
-        <img alt="Bootstrap"
-            src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-    </a>
-    <br />
-    <br />
-    
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+    <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
+    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
+</p>
 
+### 🛠️ CI/CD & Automation
+<p>
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+    <img alt="GitLab CI/CD" src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+    <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
+</p>
+
+### 🔍 Monitoring & Logging
+<p>
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+    <img alt="ELK Stack" src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white">
+</p>
+
+### 🔗 Version Control & Linux
+<p>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=offx-farooq&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=offx-farooq&theme=tokyonight" alt="GitHub Streak">
+</p>
+
+---
+
+## 🏆 Certifications & Learning
+✔ AWS Certified Cloud Practitioner *(In Progress)*  
+✔ Kubernetes Certified Administrator *(In Progress)*  
+✔ Terraform Associate *(In Progress)*  
+✔ Continuous Learning in DevOps, Cloud, and Security 🚀  
+
+---
+
+## 🔥 DevOps Projects
+
+### 📌 CI/CD Automated Website Deployment
+- Implemented a **CI/CD pipeline** with **Jenkins, Docker, Kubernetes**, reducing deployment time by **50%**.
+- Configured **AWS infrastructure** with **99.9% uptime**.
+- Integrated **Slack Webhooks** to improve team collaboration.
+
+### 📌 Continuous Integration with AWS Cloud
+- Developed a **CI/CD pipeline** using **AWS CodePipeline**, reducing deployment time by **40%**.
+- Automated software delivery workflows, reducing manual errors by **60%**.
+
+### 📌 Microservices with Kubernetes & Docker
+- Containerized applications using **Docker** and orchestrated deployments with **Kubernetes & Helm Charts**.
+- Integrated **AWS EKS/GKE** for a **scalable microservices architecture**.
+
+---
+
+## 📫 How to Reach Me
+📧 **Email:** [farooq.abdullah1719@gmail.com](mailto:farooq.abdullah1719@gmail.com)  
+🔗 **LinkedIn:** [Abdullah Farooq](https://www.linkedin.com/in/abdullah-farooq-27063a2a3/)  
+
+---
+
+### 🚀 "Automate Everything, Scale Everywhere!" 🚀
