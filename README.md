@@ -37,7 +37,7 @@ I focus on **improving software delivery efficiency, ensuring high availability,
 ## 🚀 Skills & Technologies  
 
 ### 🖥️ Operating Systems  
-🐧 **Linux (Ubuntu, CentOS, Debian), Windows Server**  
+🐧 **Linux , Windows**  
 
 ### ☁️ Cloud & Virtualization  
 AWS, Azure, Google Cloud  
@@ -49,7 +49,7 @@ Docker, Kubernetes
 Terraform, Ansible  
 
 ### 🔄 CI/CD & Automation  
-Jenkins, GitLab CI/CD, Bash, Python  
+Jenkins, GitLab CI/CD, Bash, GoLang 
 
 ### 🌐 Networking & Security  
 TCP/IP, DNS, VPN, Load Balancing, Nginx, SSL/TLS, IAM, Firewalls  
