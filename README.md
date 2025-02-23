@@ -1,56 +1,55 @@
-<h1 align="center">Hello, I'm Abdullah Farooq</h1>
+<h1 align="center" style="color:#007acc;">Hello, I'm Abdullah Farooq</h1>
+<h3 align="center" style="color:#4caf50;">DevOps Engineer | Cloud Enthusiast | Infrastructure Automation</h3>
 
-<p align="center">
-  <a href="https://github.com/offx-farooq/offx-farooq">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=DevOps+Engineer+%7C+Cloud+Enthusiast;Infrastructure+Automation+%7C+CI%2FCD+%7C+Kubernetes;Scalability+%7C+Reliability+%7C+Security">
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdullahfq/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:farooq.abdullah1719@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/offx-farooq" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🛠 About Me
 
-- **LinkedIn**: [Abdullah Farooq](https://www.linkedin.com/in/abdullahfq/)
-- **Email**: [farooq.abdullah1719@gmail.com](mailto:farooq.abdullah1719@gmail.com)
-- **GitHub**: [offx-farooq](https://github.com/offx-farooq)
+I am a **DevOps Engineer** passionate about **automation, cloud computing, and scalable infrastructure**. My expertise lies in **building and maintaining CI/CD pipelines, containerization, cloud deployments, and infrastructure as code (IaC)**.
 
----
-
-## 🛠️ About Me
-
-I am a **DevOps Engineer** with a passion for **automation, cloud computing, and scalable infrastructure**. I specialize in **containerization, CI/CD pipelines, and cloud deployments** to streamline software delivery and system reliability.
-
-With a strong background in **Linux, networking, and cloud services**, I focus on **enhancing system performance, automating repetitive tasks, and ensuring secure and efficient deployments**.
+I focus on **improving software delivery efficiency, ensuring high availability, and enhancing security**. I enjoy solving complex problems and **optimizing system performance** through automation and DevOps best practices.
 
 ---
 
 ## 🚀 Skills & Technologies
 
-### 🔹 DevOps & Cloud
+### 🏗 DevOps & Cloud
 - **Cloud Platforms**: AWS, Azure, Google Cloud
-- **Containerization**: Docker, Kubernetes
+- **Containerization & Orchestration**: Docker, Kubernetes
 - **Infrastructure as Code (IaC)**: Terraform, Ansible
-- **Monitoring & Logging**: Grafana, Prometheus, ELK Stack
-- **CI/CD Tools**: Jenkins, GitHub Actions, GitLab CI/CD
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+- **CI/CD Pipelines**: Jenkins, GitHub Actions, GitLab CI/CD
 - **Version Control**: Git, GitHub, GitLab
-- **Operating Systems**: Linux (Ubuntu, CentOS, Debian)
+- **Security & Compliance**: Nginx, SSL/TLS, IAM, Firewalls
+
+### 💻 Operating Systems
+- **Linux Administration**: Ubuntu, CentOS, Debian
+- **Windows Server Management**
+
+### ⚙️ Networking & Automation
+- **Networking**: TCP/IP, DNS, VPN, Load Balancing
+- **Automation Tools**: Bash, Python, Shell Scripting
 
 ---
 
-## 📊 GitHub Stats
+## 📩 Let's Connect
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=offx-farooq&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=offx-farooq&theme=tokyonight" alt="GitHub Streak">
-</p>
-
----
-
-## 📫 Let's Connect
-
-If you're interested in **collaborations, DevOps discussions, or potential opportunities**, feel free to reach out!
-
+If you're interested in **collaborations, DevOps discussions, or opportunities**, feel free to reach out!  
 📧 **Email:** [farooq.abdullah1719@gmail.com](mailto:farooq.abdullah1719@gmail.com)  
 🔗 **LinkedIn:** [Abdullah Farooq](https://www.linkedin.com/in/abdullahfq/)  
