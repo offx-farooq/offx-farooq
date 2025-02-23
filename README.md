@@ -29,27 +29,20 @@ I focus on **improving software delivery efficiency, ensuring high availability,
 
 ## 🚀 Skills & Technologies
 
-### 🏗 DevOps & Cloud
-- **Cloud Platforms**: AWS, Azure, Google Cloud
-- **Containerization & Orchestration**: Docker, Kubernetes
-- **Infrastructure as Code (IaC)**: Terraform, Ansible
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
-- **CI/CD Pipelines**: Jenkins, GitHub Actions, GitLab CI/CD
-- **Version Control**: Git, GitHub, GitLab
-- **Security & Compliance**: Nginx, SSL/TLS, IAM, Firewalls
-
-### 💻 Operating Systems
-- **Linux Administration**: Ubuntu, CentOS, Debian
-- **Windows Server Management**
-
-### ⚙️ Networking & Automation
-- **Networking**: TCP/IP, DNS, VPN, Load Balancing
-- **Automation Tools**: Bash, Python, Shell Scripting
+- **Operating Systems:** Linux (Ubuntu, CentOS, Debian), Windows Server  
+- **Cloud & Virtualization:** AWS, Azure, Google Cloud  
+- **Containerization & Orchestration:** Docker, Kubernetes  
+- **Infrastructure as Code (IaC):** Terraform, Ansible  
+- **CI/CD & Automation:** Jenkins, GitHub Actions, GitLab CI/CD, Bash, Python  
+- **Networking & Security:** TCP/IP, DNS, VPN, Load Balancing, Nginx, SSL/TLS, IAM, Firewalls  
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
+- **Version Control & Collaboration:** Git, GitHub, GitLab  
 
 ---
 
 ## 📩 Let's Connect
 
 If you're interested in **collaborations, DevOps discussions, or opportunities**, feel free to reach out!  
+
 📧 **Email:** [farooq.abdullah1719@gmail.com](mailto:farooq.abdullah1719@gmail.com)  
 🔗 **LinkedIn:** [Abdullah Farooq](https://www.linkedin.com/in/abdullahfq/)  
