@@ -1,9 +1,19 @@
 <h1 align="center" style="color:#007acc;">Hello, I'm Abdullah Farooq</h1>
-<h3 align="center" style="color:#4caf50;">DevOps Engineer | Cloud Enthusiast | Infrastructure Automation</h3>
+<h3 align="center">
+  <span style="color:#4caf50;">💻 <b>DevOps Engineer</b></span> 
+  <span style="color:#ff9800;" id="blinking">| Cloud & Automation Enthusiast 🚀</span>
+</h3>
+
+<script>
+  var blink = document.getElementById("blinking");
+  setInterval(function() {
+    blink.style.visibility = (blink.style.visibility == "hidden" ? "" : "hidden");
+  }, 800);
+</script>
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Connect With Me  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdullahfq/" target="_blank">
@@ -19,28 +29,28 @@
 
 ---
 
-## 🛠 About Me
+## 🛠 About Me  
 
-I am a **DevOps Engineer** passionate about **automation, cloud computing, and scalable infrastructure**. My expertise lies in **building and maintaining CI/CD pipelines, containerization, cloud deployments, and infrastructure as code (IaC)**.
+I am a **DevOps Engineer** passionate about **automation, cloud computing, and scalable infrastructure**. My expertise lies in **building and maintaining CI/CD pipelines, containerization, cloud deployments, and infrastructure as code (IaC)**.  
 
 I focus on **improving software delivery efficiency, ensuring high availability, and enhancing security**. I enjoy solving complex problems and **optimizing system performance** through automation and DevOps best practices.
 
 ---
 
-## 🚀 Skills & Technologies
+## 🚀 Skills & Technologies  
 
-- **Operating Systems:** Linux (Ubuntu, CentOS, Debian), Windows Server  
-- **Cloud & Virtualization:** AWS, Azure, Google Cloud  
-- **Containerization & Orchestration:** Docker, Kubernetes  
-- **Infrastructure as Code (IaC):** Terraform, Ansible  
-- **CI/CD & Automation:** Jenkins, GitHub Actions, GitLab CI/CD, Bash, Python  
-- **Networking & Security:** TCP/IP, DNS, VPN, Load Balancing, Nginx, SSL/TLS, IAM, Firewalls  
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
-- **Version Control & Collaboration:** Git, GitHub, GitLab  
+- **Operating Systems:** 🐧 Linux , Windows Server  
+- **Cloud & Virtualization:** ☁️ AWS, Azure, Google Cloud  
+- **Containerization & Orchestration:** 📦 Docker, Kubernetes  
+- **Infrastructure as Code (IaC):** ⚙️ Terraform, Ansible  
+- **CI/CD & Automation:** 🔄 Jenkins, GitLab CI/CD, Bash, Python  
+- **Networking & Security:** 🌐 TCP/IP, DNS, VPN, Load Balancing, Nginx, SSL/TLS, IAM, Firewalls  
+- **Monitoring & Logging:** 📊 Prometheus, Grafana 
+- **Version Control & Collaboration:** 🛠️ Git, GitHub, GitLab  
 
 ---
 
-## 📩 Let's Connect
+## 📩 Let's Connect  
 
 If you're interested in **collaborations, DevOps discussions, or opportunities**, feel free to reach out!  
 
